@@ -1,0 +1,49 @@
+.mainInfoComponentBox {
+    height: 820px;
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    background-color: black;
+}
+
+.contentBox {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 147px;
+}
+
+.text {
+    font-size: 24px;
+    line-height: 28px;
+    color: #8b8b8b;
+}
+
+.buttonAndTextBox{
+    height: 490px;
+    max-width: 550px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bigText {
+    color: white;
+    font-size: 32px;
+}
+
+.buttonOrder {
+    width: 233px;
+    height: 70px;
+    font-size: 24px;
+    background-color: black;
+    color: #FFFFFF;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 2px solid #BBE73E;
+}
+
+.boxInfoName {
+    display: flex;
+}

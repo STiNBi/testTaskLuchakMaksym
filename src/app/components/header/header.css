@@ -1,0 +1,18 @@
+.headerBox{
+    width: 1135px;
+    height: 90px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.linkBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 448px;
+    height: 17px; 
+    font-size: 19px;
+    color: red;
+}

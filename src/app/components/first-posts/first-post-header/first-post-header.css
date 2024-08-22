@@ -1,0 +1,14 @@
+.headerMainBox{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 36px;
+    color: white;
+}
+
+.greenHeader{
+    color: #BBE73E;
+}

@@ -1,0 +1,85 @@
+.secondPostsMainBox {
+    width: 100%;
+    min-height: 1500px;
+    padding-bottom: 76px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(54, 54, 54);
+}
+
+.imgClass {
+    margin: 0 auto;
+}
+
+.headerSecondPosts {
+    height: 58px;
+    font-size: 48px;
+    color: #BBE73E;
+}
+
+.mainTextBox {
+    width: 1139px;
+    min-height: 350px;
+    display: flex;
+}
+
+.textConteiner {
+    width: 33.33%;
+}
+
+.leftTextBox{
+    display: flex;
+    justify-content: start;
+}
+
+.centerTextBox {
+    border-right: 1px solid #BBE73E;
+    border-left: 1px solid #BBE73E;
+    display: flex;
+    justify-content: center;
+}
+
+.rightTextBox{
+    display: flex;
+    justify-content: end;
+}
+
+
+/*  */
+.textBox{
+    width: 290px;
+    min-height: 300px;
+}
+
+.numberPostText {
+    font-size: 48px;
+    color: #BBE73E;
+    margin-top: 20px;
+}
+
+.headerPostText   { 
+    margin-top: 20px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.valuePostText{
+    margin-top: 12px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF99;
+}
+/*  */
+
+
+.buttonMoreDeteils {
+    width: 233px;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 15px;
+    border: 2px solid #BBE73E;
+    color: white;
+    font-size: 24px;
+}

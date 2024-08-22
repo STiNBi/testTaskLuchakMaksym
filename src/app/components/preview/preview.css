@@ -1,0 +1,31 @@
+.background{
+    background-image: url('./../../../../public//Preview.svg');
+    width: 1440px;
+    height: 789px;
+}
+
+.textAndButtonBox{
+    width: 75%;
+    height: 424px;
+    margin: 140px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    p{
+        font-size: 64px;
+        line-height: 75px;
+        margin: 0;
+        color: white;
+    }
+}
+
+.buttonBuyNow{
+    width: 276px;
+    height: 52px;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: white;
+    font-size: 16px;
+}
+
